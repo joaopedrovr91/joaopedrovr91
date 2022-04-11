@@ -23,6 +23,6 @@
 
 
 - 🔭 hoje trabalho como oficial administrativo 
-- 🌱 Estudante de Java
+- 🌱 Estudante de Kotlin e Java
 - 📫 Contate-me no e-mail: joaopedrovr91@gmail.com
 
